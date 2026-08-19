@@ -1,0 +1,13 @@
+# dane ALFA (1.2 GB) - pobierane skryptem z figshare, nie wersjonujemy
+data/
+
+# srodowisko wirtualne
+.venv/
+venv/
+
+# smieci systemowe i robocze
+.DS_Store
+_to_delete/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
